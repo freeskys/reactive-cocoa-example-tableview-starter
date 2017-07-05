@@ -1,5 +1,5 @@
 # Reactive Cocoa UITableView Example
-ReactiveCocoa example for reloading data on the UITableView
+ReactiveCocoa example for reloading data on the UITableView. **This is the starter project**.
 
 ### How to Run
 - Clone the project
